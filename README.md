@@ -11,7 +11,10 @@ This android application is based on Blackjack french rules. rules near to casin
 Phone with android 5.0 
 
 ## 3. Installation
+- Click on blackjack.apk
+![tuto](https://user-images.githubusercontent.com/69635921/161759680-320c986d-6c65-49e2-89bb-f97e9a1e0afc.jpg)
 - Donwload blackjack.apk in your phone.
+![tuto2](https://user-images.githubusercontent.com/69635921/161759729-7fff3157-e894-46e4-bba1-051dda19f1e6.jpg)
 - Execute blackjack.apk in your phone.
 - Don't worry about google play alert, you can say it's a safe app and continue installation.
 
